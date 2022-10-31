@@ -6,6 +6,6 @@ import org.springframework.web.bind.annotation.RestController;
 
 @RestController
 @RequestMapping(path= "app/user")
-public class APIcontroller {
+public class APIController {
 
 }
